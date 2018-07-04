@@ -4,7 +4,7 @@ ML project to learn how to fit curves based on data retrieved from Genedata Scre
 ```
 .
 ├── data
-│   ├── external		<- Data from third party sources.
+│   ├── external    <- Data from third party sources.
 │   ├── processed   <- The final, canonical data sets for modeling.
 │   ├── raw         <- The original, immutable data dump.
 │   └── temp        <- Intermediate data that has been transformed.
